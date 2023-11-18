@@ -1,0 +1,14 @@
+C:\Users\kasutaja.T470-28EXB\source\repos\Functions\Discount calculator\obj\Debug\net6.0\Discount calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasutaja.T470-28EXB\source\repos\Functions\Discount calculator\obj\Debug\net6.0\Discount calculator.AssemblyInfoInputs.cache
+C:\Users\kasutaja.T470-28EXB\source\repos\Functions\Discount calculator\obj\Debug\net6.0\Discount calculator.AssemblyInfo.cs
+C:\Users\kasutaja.T470-28EXB\source\repos\Functions\Discount calculator\obj\Debug\net6.0\Discount calculator.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja.T470-28EXB\source\repos\Functions\Discount calculator\bin\Debug\net6.0\Discount calculator.exe
+C:\Users\kasutaja.T470-28EXB\source\repos\Functions\Discount calculator\bin\Debug\net6.0\Discount calculator.deps.json
+C:\Users\kasutaja.T470-28EXB\source\repos\Functions\Discount calculator\bin\Debug\net6.0\Discount calculator.runtimeconfig.json
+C:\Users\kasutaja.T470-28EXB\source\repos\Functions\Discount calculator\bin\Debug\net6.0\Discount calculator.dll
+C:\Users\kasutaja.T470-28EXB\source\repos\Functions\Discount calculator\bin\Debug\net6.0\Discount calculator.pdb
+C:\Users\kasutaja.T470-28EXB\source\repos\Functions\Discount calculator\obj\Debug\net6.0\Discount calculator.dll
+C:\Users\kasutaja.T470-28EXB\source\repos\Functions\Discount calculator\obj\Debug\net6.0\refint\Discount calculator.dll
+C:\Users\kasutaja.T470-28EXB\source\repos\Functions\Discount calculator\obj\Debug\net6.0\Discount calculator.pdb
+C:\Users\kasutaja.T470-28EXB\source\repos\Functions\Discount calculator\obj\Debug\net6.0\Discount calculator.genruntimeconfig.cache
+C:\Users\kasutaja.T470-28EXB\source\repos\Functions\Discount calculator\obj\Debug\net6.0\ref\Discount calculator.dll

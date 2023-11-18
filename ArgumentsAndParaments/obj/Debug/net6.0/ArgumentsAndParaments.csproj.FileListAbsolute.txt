@@ -1,0 +1,14 @@
+C:\Users\kasutaja.T470-28EXB\source\repos\Functions\ArgumentsAndParaments\obj\Debug\net6.0\ArgumentsAndParaments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasutaja.T470-28EXB\source\repos\Functions\ArgumentsAndParaments\obj\Debug\net6.0\ArgumentsAndParaments.AssemblyInfoInputs.cache
+C:\Users\kasutaja.T470-28EXB\source\repos\Functions\ArgumentsAndParaments\obj\Debug\net6.0\ArgumentsAndParaments.AssemblyInfo.cs
+C:\Users\kasutaja.T470-28EXB\source\repos\Functions\ArgumentsAndParaments\obj\Debug\net6.0\ArgumentsAndParaments.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja.T470-28EXB\source\repos\Functions\ArgumentsAndParaments\bin\Debug\net6.0\ArgumentsAndParaments.exe
+C:\Users\kasutaja.T470-28EXB\source\repos\Functions\ArgumentsAndParaments\bin\Debug\net6.0\ArgumentsAndParaments.deps.json
+C:\Users\kasutaja.T470-28EXB\source\repos\Functions\ArgumentsAndParaments\bin\Debug\net6.0\ArgumentsAndParaments.runtimeconfig.json
+C:\Users\kasutaja.T470-28EXB\source\repos\Functions\ArgumentsAndParaments\bin\Debug\net6.0\ArgumentsAndParaments.dll
+C:\Users\kasutaja.T470-28EXB\source\repos\Functions\ArgumentsAndParaments\bin\Debug\net6.0\ArgumentsAndParaments.pdb
+C:\Users\kasutaja.T470-28EXB\source\repos\Functions\ArgumentsAndParaments\obj\Debug\net6.0\ArgumentsAndParaments.dll
+C:\Users\kasutaja.T470-28EXB\source\repos\Functions\ArgumentsAndParaments\obj\Debug\net6.0\refint\ArgumentsAndParaments.dll
+C:\Users\kasutaja.T470-28EXB\source\repos\Functions\ArgumentsAndParaments\obj\Debug\net6.0\ArgumentsAndParaments.pdb
+C:\Users\kasutaja.T470-28EXB\source\repos\Functions\ArgumentsAndParaments\obj\Debug\net6.0\ArgumentsAndParaments.genruntimeconfig.cache
+C:\Users\kasutaja.T470-28EXB\source\repos\Functions\ArgumentsAndParaments\obj\Debug\net6.0\ref\ArgumentsAndParaments.dll

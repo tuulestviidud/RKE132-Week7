@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ArgumentsAndParaments/1.0.0": {
+        "runtime": {
+          "ArgumentsAndParaments.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArgumentsAndParaments/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
